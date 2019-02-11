@@ -267,32 +267,32 @@
 		          <div class="col-md-6 col-lg-3 d-flex justify-content-center counter-wrap ftco-animate">
 		            <div class="block-18 text-center">
 		              <div class="text">
-		              	<strong class="number" data-number="13">0</strong>
-		              	<span>咨询人数</span>
+		              	<strong class="number" data-number="5000">0</strong>
+		              	<span>Happy Customers</span>
 		              </div>
 		            </div>
 		          </div>
 		          <div class="col-md-6 col-lg-3 d-flex justify-content-center counter-wrap ftco-animate">
 		            <div class="block-18 text-center">
 		              <div class="text">
-		              	<strong class="number" data-number="5">0</strong>
-		              	<span>售出电脑</span>
+		              	<strong class="number" data-number="4560">0</strong>
+		              	<span>Perfect Bodies</span>
 		              </div>
 		            </div>
 		          </div>
 		          <div class="col-md-6 col-lg-3 d-flex justify-content-center counter-wrap ftco-animate">
 		            <div class="block-18 text-center">
 		              <div class="text">
-		              	<strong class="number" data-number="30">0</strong>
-		              	<span>工作小时</span>
+		              	<strong class="number" data-number="570">0</strong>
+		              	<span>Working Hours</span>
 		              </div>
 		            </div>
 		          </div>
 		          <div class="col-md-6 col-lg-3 d-flex justify-content-center counter-wrap ftco-animate">
 		            <div class="block-18 text-center">
 		              <div class="text">
-		              	<strong class="number" data-number="11620">0</strong>
-		              	<span>消费金额</span>
+		              	<strong class="number" data-number="900">0</strong>
+		              	<span>Success Stories</span>
 		              </div>
 		            </div>
 		          </div>
@@ -302,16 +302,172 @@
       </div>
     </section>
 
+    <section class="ftco-section">
+    	<div class="container">
+    		<div class="row justify-content-center mb-5">
+          <div class="col-md-7 heading-section text-center ftco-animate">
+          	<span class="subheading">Trainer</span>
+            <h2 class="mb-4">Our Coaches</h2>
+            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+          </div>
+        </div>
+    		<div class="row">
+    			<div class="col-lg-6 d-flex">
+    				<div class="coach d-sm-flex align-items-stretch">
+	    				<div class="img" style="background-image: url(images/trainer-1.jpg);"></div>
+	    				<div class="text py-4 px-5 ftco-animate">
+	    					<span class="subheading">Owner / Head Coach</span>
+	    					<h3><a href="#">Oscar Brook</a></h3>
+	    					<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+	    					<ul class="ftco-social-media d-flex mt-4">
+	                <li class="ftco-animate"><a href="#" class="mr-2 d-flex justify-content-center align-items-center"><span class="icon-twitter"></span></a></li>
+	                <li class="ftco-animate"><a href="#" class="mr-2 d-flex justify-content-center align-items-center"><span class="icon-facebook"></span></a></li>
+	                <li class="ftco-animate"><a href="#" class="mr-2 d-flex justify-content-center align-items-center"><span class="icon-instagram"></span></a></li>
+	              </ul>
+	    					<p></p>
+	    				</div>
+	    			</div>
+    			</div>
+    			<div class="col-lg-6 d-flex">
+    				<div class="coach d-sm-flex align-items-stretch">
+	    				<div class="img" style="background-image: url(images/trainer-2.jpg);"></div>
+	    				<div class="text py-4 px-5 ftco-animate">
+	    					<span class="subheading">Owner / Head Coach</span>
+	    					<h3><a href="#">Leonard Smith</a></h3>
+	    					<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+	    					<ul class="ftco-social-media d-flex mt-4">
+	                <li class="ftco-animate"><a href="#" class="mr-2 d-flex justify-content-center align-items-center"><span class="icon-twitter"></span></a></li>
+	                <li class="ftco-animate"><a href="#" class="mr-2 d-flex justify-content-center align-items-center"><span class="icon-facebook"></span></a></li>
+	                <li class="ftco-animate"><a href="#" class="mr-2 d-flex justify-content-center align-items-center"><span class="icon-instagram"></span></a></li>
+	              </ul>
+	    					<p></p>
+	    				</div>
+	    			</div>
+    			</div>
+    			<div class="col-lg-6 d-flex">
+    				<div class="coach d-sm-flex align-items-stretch">
+	    				<div class="img order-xl-last" style="background-image: url(images/trainer-3.jpg);"></div>
+	    				<div class="text py-4 px-5 ftco-animate">
+	    					<span class="subheading">Owner / Head Coach</span>
+	    					<h3><a href="#">James Buffer</a></h3>
+	    					<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+	    					<ul class="ftco-social-media d-flex mt-4">
+	                <li class="ftco-animate"><a href="#" class="mr-2 d-flex justify-content-center align-items-center"><span class="icon-twitter"></span></a></li>
+	                <li class="ftco-animate"><a href="#" class="mr-2 d-flex justify-content-center align-items-center"><span class="icon-facebook"></span></a></li>
+	                <li class="ftco-animate"><a href="#" class="mr-2 d-flex justify-content-center align-items-center"><span class="icon-instagram"></span></a></li>
+	              </ul>
+	    					<p></p>
+	    				</div>
+	    			</div>
+    			</div>
+    			<div class="col-lg-6 d-flex">
+    				<div class="coach d-sm-flex align-items-stretch">
+	    				<div class="img order-xl-last" style="background-image: url(images/trainer-4.jpg);"></div>
+	    				<div class="text py-4 px-5 ftco-animate">
+	    					<span class="subheading">Owner / Head Coach</span>
+	    					<h3><a href="#">Maricar Collins</a></h3>
+	    					<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+	    					<ul class="ftco-social-media d-flex mt-4">
+	                <li class="ftco-animate"><a href="#" class="mr-2 d-flex justify-content-center align-items-center"><span class="icon-twitter"></span></a></li>
+	                <li class="ftco-animate"><a href="#" class="mr-2 d-flex justify-content-center align-items-center"><span class="icon-facebook"></span></a></li>
+	                <li class="ftco-animate"><a href="#" class="mr-2 d-flex justify-content-center align-items-center"><span class="icon-instagram"></span></a></li>
+	              </ul>
+	    					<p></p>
+	    				</div>
+	    			</div>
+    			</div>
+    		</div>
+    	</div>
+    </section>
 
-
-
+    <section class="ftco-section img" id="ftco-testimony" style="background-image: url(images/bg_2.jpg);"  data-stellar-background-ratio="0.5">
+    	<div class="overlay"></div>
+	    <div class="container">
+	      <div class="row justify-content-center mb-5">
+	        <div class="col-md-7 heading-section text-center ftco-animate">
+	        	<span class="subheading">Testimony</span>
+	          <h2 class="mb-4">Customers Says</h2>
+	          <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+	        </div>
+	      </div>
+	    </div>
+	    <div class="container-wrap">
+	      <div class="row d-flex no-gutters">
+	        <div class="col-lg align-self-sm-end ftco-animate">
+	          <div class="testimony">
+	             <blockquote>
+	                <p>&ldquo;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small.&rdquo;</p>
+	              </blockquote>
+	              <div class="author d-flex mt-4">
+	                <div class="image mr-3 align-self-center">
+	                  <img src="images/person_1.jpg" alt="">
+	                </div>
+	                <div class="name align-self-center">Louise Kelly <span class="position">Illustrator Designer</span></div>
+	              </div>
+	          </div>
+	        </div>
+	        <div class="col-lg align-self-sm-end">
+	          <div class="testimony overlay">
+	             <blockquote>
+	                <p>&ldquo;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&rdquo;</p>
+	              </blockquote>
+	              <div class="author d-flex mt-4">
+	                <div class="image mr-3 align-self-center">
+	                  <img src="images/person_2.jpg" alt="">
+	                </div>
+	                <div class="name align-self-center">Louise Kelly <span class="position">Illustrator Designer</span></div>
+	              </div>
+	          </div>
+	        </div>
+	        <div class="col-lg align-self-sm-end ftco-animate">
+	          <div class="testimony">
+	             <blockquote>
+	                <p>&ldquo;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small  line of blind text by the name. &rdquo;</p>
+	              </blockquote>
+	              <div class="author d-flex mt-4">
+	                <div class="image mr-3 align-self-center">
+	                  <img src="images/person_3.jpg" alt="">
+	                </div>
+	                <div class="name align-self-center">Louise Kelly <span class="position">Illustrator Designer</span></div>
+	              </div>
+	          </div>
+	        </div>
+	        <div class="col-lg align-self-sm-end">
+	          <div class="testimony overlay">
+	             <blockquote>
+	                <p>&ldquo;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however.&rdquo;</p>
+	              </blockquote>
+	              <div class="author d-flex mt-4">
+	                <div class="image mr-3 align-self-center">
+	                  <img src="images/person_2.jpg" alt="">
+	                </div>
+	                <div class="name align-self-center">Louise Kelly <span class="position">Illustrator Designer</span></div>
+	              </div>
+	          </div>
+	        </div>
+	        <div class="col-lg align-self-sm-end ftco-animate">
+	          <div class="testimony">
+	            <blockquote>
+	              <p>&ldquo;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small  line of blind text by the name. &rdquo;</p>
+	            </blockquote>
+	            <div class="author d-flex mt-4">
+	              <div class="image mr-3 align-self-center">
+	                <img src="images/person_3.jpg" alt="">
+	              </div>
+	              <div class="name align-self-center">Louise Kelly <span class="position">Illustrator Designer</span></div>
+	            </div>
+	          </div>
+	        </div>
+	      </div>
+	    </div>
+	  </section>
 
 	  <section class="ftco-section">
 	  	<div class="container">
 	  		<div class="row justify-content-center mb-5 pb-3">
           <div class="col-md-7 heading-section ftco-animate text-center">
-            <h2 class="mb-4">推荐列表</h2>
-            <p>三种主要针对不同需求所给出的配置单。帮助选择合适的型号.（以下所有配置均为模板，可根据需要进行随时调整）</p>
+            <h2 class="mb-4">Our Packages</h2>
+            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
           </div>
         </div>
         <div class="row">
@@ -319,9 +475,9 @@
         		<div class="package-program ftco-animate">
         			<div class="img" style="background-image: url(images/program-1.jpg);"></div>
         			<div class="text mt-4">
-        				<h3>入门级游戏配置</h3>
-        				<span class="d-block mb-4">1080P流畅体验所有游戏。</span>
-        				<p>GTX1060 </p>
+        				<h3>Muscle Build Pro</h3>
+        				<span class="d-block mb-4">1 Year Training</span>
+        				<p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
         				<div class="d-flex mt-4">
         					<p class="price"><sup>$</sup>98.75<sub> / Year</sub></p>
         					<p class="btn-custom float-right"><a href="/images/bg_2.jpg">Enroll Now</a></p>
